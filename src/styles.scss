@@ -1,1 +1,28 @@
-/* You can add global styles to this file, and also import other style files */
+:root {
+  --header_bg: url('./assets/pic/fon.jpg');
+  --menu_bg: url('./assets/pic/fon.jpg') repeat-x;
+}
+
+A {
+  color : #fa3403;
+  text-decoration : none;
+  font-family : Comic Sans MS, Arial, Helvetica, sans-serif;
+}
+A:hover {
+  color : #fa3403;
+  text-decoration : underline;
+}
+a:link {
+  color: #FA3403;
+}
+a:active {
+  color: #FA3403;
+}
+a:visited {
+  color: #FA3403;
+}
+body {
+  background-color : #cccccc;
+  margin : 0 auto;
+  max-width: 1600px;
+}

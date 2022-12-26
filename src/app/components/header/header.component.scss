@@ -1,0 +1,14 @@
+.wrapper {
+  display: flex;
+  height: 300px;
+}
+
+.center_block {
+  width: 100%;
+  padding: 0px;
+  vertical-align: middle;
+  background-image: var(--header_bg);
+  font-family: 'Caveat', cursive;
+  font-size: 36px;
+  color: #333333;
+}
